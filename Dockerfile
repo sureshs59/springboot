@@ -1,5 +1,5 @@
 FROM openjdk:8
-ADD target/FirstApplication-1.0.jar myDockerapp
+ADD target/FirstApplication-1.0.jar mydockerapp
 EXPOSE 8085
-ENTRYPOINT ["java","-jar","myDockerapp"]
+ENTRYPOINT ["java","-jar","mydockerapp"]
 
