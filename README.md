@@ -12,5 +12,5 @@ c:\>docker image ls
 
 c:\>docker container run -p 8085:8081 myDockerapp
 
-Configuring the pipeline with Maven.finished
+Configuring the pipeline with Maven
 
